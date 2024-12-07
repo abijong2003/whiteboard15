@@ -18,12 +18,12 @@
     "cheerio": "1.0.0-rc.12",
     "config": "3.3.9",
     "cookie-parser": "~1.4.3",
-    "ejs": "3.1.9",
+    "ejs": "^3.1.10",
     "execSync": "latest",
     "express": "^4.16.4",
     "file-type": "^16.5.0",
     "glob": "10.3.3",
-    "gm": "^1.23.1",
+    "gm": "^1.22.0",
     "helmet": "^7.0.0",
     "i18n-2": "0.7.3",
     "log-timestamp": "latest",
@@ -44,10 +44,10 @@
     "underscore": "^1.13.1",
     "uuid": "^9.0.0",
     "validator": "13.9.0",
-    "ws": "8.13.0"
+    "ws": "^8.18.0"
   },
   "devDependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^5",
